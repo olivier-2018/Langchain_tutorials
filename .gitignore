@@ -1,0 +1,7 @@
+langchain-course/
+.venv/
+.env
+.vscode
+uv.lock
+__pycache__/
+
