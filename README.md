@@ -55,3 +55,12 @@ uv sync
 # Notes:
 uv add <python_library>
 ```
+
+
+## Acknowledgements
+
+[Langchain tutorials](https://github.com/LangChain-OpenTutorial)
+[Langchain academy](https://academy.langchain.com/collections)
+
+
+
