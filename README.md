@@ -45,3 +45,13 @@ Langchain includes a number of toolkit elements used for abstraction:
 - **Langchain** provides an abstraction layer for chaining LLM operations into applications thereby providing a sequential wokflow.
 
 - **Langgraph** creates and manages what is know as **multi-agents** systems and workflows. This is suited when the workflow is not know apriori but determined dynamically depending on the **states** of the system. **Nodes** are connected by **edges** and can therefore be visited and revisited several times and their respective **states** will evolve.
+
+## Getting started:
+
+```bash
+uv venv --python 3.12 .venv
+source .venv/bin/activate
+uv sync
+# Notes:
+uv add <python_library>
+```
